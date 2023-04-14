@@ -3,9 +3,9 @@
 3. git commit -m "B"
 4. git checkout master
 5. git commit -m "C"
-6. git merge develop
+6. git merge develop (vi 에서 커밋메시지 "D"로)
 7. git checkout develop
 8. git commit -m "E"
 9. git checkout master
-10. git merge develop
+10. git merge develop (vi 에서 커밋메시지 "F"로)
 11. git checkout develop
